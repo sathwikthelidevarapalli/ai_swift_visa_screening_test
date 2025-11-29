@@ -1,0 +1,60 @@
+Source: https: https://www.uscis.gov/policy-manual/volume-2-part-c
+Country: United States
+Visa Type: H-2A Temporary Agricultural Workers
+
+1. Overview
+The H-2A Temporary Agricultural Worker visa program allows U.S. employers or authorized agents to bring foreign nationals to the United States to fill temporary or seasonal agricultural jobs when there are not enough domestic workers available. The program ensures the lawful admission of foreign workers while protecting the employment conditions of U.S. workers in similar occupations.
+
+The H-2A visa is employer-specific and valid only for the duration and location specified in the approved petition and labor certification.
+
+2. Basic Eligibility Requirements
+- The **U.S. employer or authorized agent** must offer employment that is **temporary or seasonal** in nature.  
+- The employer must demonstrate that there are **not enough U.S. workers** who are able, willing, qualified, and available to perform the temporary agricultural work.  
+- The employer must show that **employment of H-2A workers will not adversely affect the wages and working conditions** of similarly employed U.S. workers.  
+- The employer must obtain a **valid Temporary Labor Certification (TLC)** from the U.S. Department of Labor (DOL) before filing the H-2A petition with USCIS.  
+- The foreign worker must be a **citizen of an eligible country** designated by the Department of Homeland Security (DHS), unless a special waiver is granted.  
+
+3. Employer Obligations
+- Must provide workers with **free housing** that meets applicable safety standards.  
+- Must provide **three meals a day or free cooking facilities**, and **transportation** between the housing and worksite.  
+- Must pay the **Adverse Effect Wage Rate (AEWR)** or the prevailing wage, whichever is higher.  
+- Must reimburse workers for **reasonable inbound transportation costs** after completing 50% of the work contract, and outbound costs upon completion.  
+- Must guarantee workers **employment for at least three-fourths** of the contract period (“three-fourths guarantee”).  
+- Must comply with all applicable **federal, state, and local labor laws**.
+
+4. Worker Eligibility
+- The foreign worker must be **physically capable and available** to perform the agricultural labor described in the job order.  
+- Must **maintain H-2A status** by working only for the petitioning employer(s) and under the approved conditions.  
+- Must **depart the United States** when the authorized period of stay expires unless granted an extension.  
+
+5. Validity and Extensions
+- The initial H-2A petition may be approved for **up to one year** or the period certified by DOL.  
+- Extensions may be granted in **increments of up to one year**, with a **maximum stay of three years**.  
+- After three years in H-2A status, the worker must depart the United States for at least **three uninterrupted months** before seeking readmission under H-2A classification.  
+
+6. Documentation Required
+- Certified **Temporary Labor Certification (Form ETA-9142A)** from the Department of Labor.  
+- Form **I-129, Petition for a Nonimmigrant Worker** filed with USCIS.  
+- Proof of employer’s **ability to pay wages and provide housing**.  
+- Worker’s passport and evidence of nationality from an eligible country.  
+- Copy of the signed employment contract and job order (Form ETA-790/790A).  
+
+7. Common Reasons for Ineligibility
+- Employer fails to obtain or comply with DOL labor certification requirements.  
+- Job offered is not temporary or seasonal.  
+- Lack of proof of adequate housing, transportation, or wage compliance.  
+- Worker is from a non-designated country or has prior immigration violations.  
+- Failure to maintain employment or lawful H-2A status.  
+
+8. Legal References
+- Immigration and Nationality Act (INA) §101(a)(15)(H)(ii)(a) — H-2A Nonimmigrant Agricultural Workers.  
+- 8 CFR §214.2(h)(5) — H-2A Classification Regulations.  
+- Department of Labor: 20 CFR Part 655, Subpart B — Temporary Agricultural Labor Certification.  
+- USCIS Policy Manual, Volume 2, Part C — H-2A Agricultural Worker Policies and Procedures.  
+
+9. Notes
+- H-2A workers are not eligible for permanent residence solely through H-2A employment.  
+- Dependents (spouse and unmarried children under 21) may apply for **H-4 status**, but are not authorized to work.  
+- Employers must maintain **detailed records** for each worker, including hours, wages, housing, and transportation documentation.  
+- Violation of labor or immigration rules can result in **debarment** from the H-2A program and civil penalties
+

@@ -1,0 +1,5 @@
+uk/claim-asylum/eligibility Country: United Kingdom Program Type: Asylum / Refugee Protection 1
+ Basic Eligibility Requirements - The applicant must be **physically present in the United Kingdom** at the time of applying for asylum
+ - Proof of identity and nationality (birth certificate, travel documents)
+ Ineligibility Conditions An asylum claim may be refused if the applicant: - Arrived from or transited through a **“safe third country”** where protection was available
+ - Applicants are expected to comply with reporting and residence requirements while their case is pending

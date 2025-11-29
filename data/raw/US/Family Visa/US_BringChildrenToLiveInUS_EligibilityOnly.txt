@@ -1,0 +1,75 @@
+Source:https://www.uscis.gov/family/bring-children-to-live-in-the-US
+Country: United States
+Visa Category: Family-Based Immigrant Visa (Children of U.S. Citizens or Permanent Residents)
+
+1. Overview  
+The Family-Based Immigrant Visa program allows U.S. citizens and lawful permanent residents (LPRs) to sponsor their eligible children to immigrate and live permanently in the United States. The program is part of the U.S. immigration system’s family reunification policy, which prioritizes keeping immediate family members together.  
+
+Children eligible under this category may obtain lawful permanent residence (a Green Card) and eventually apply for U.S. citizenship once they meet residency and eligibility requirements.  
+
+2. Basic Eligibility Requirements  
+- The petitioner must be either a **U.S. citizen** or a **lawful permanent resident (green card holder)**.  
+- The beneficiary (child) must have a **qualifying relationship** with the petitioner as defined by U.S. immigration law.  
+- Eligible children include:  
+  • **Biological children** of the petitioner.  
+  • **Stepchildren**, if the marriage that created the relationship occurred before the child’s 18th birthday.  
+  • **Adopted children**, if the adoption was finalized before the child’s 16th birthday and the child has lived with the adoptive parent for at least two years.  
+- The child must be **unmarried and under 21 years of age** to qualify as a “child” for immigration purposes.  
+- Children who are married or aged 21 or older may still qualify under the **“family preference” categories** (F2B, F3, F4), but are not considered immediate relatives.  
+- The petitioner must demonstrate sufficient income or assets to support the child (Form I-864, Affidavit of Support).  
+
+3. Petitioner Eligibility  
+- A **U.S. citizen** may file a petition for:  
+  • Unmarried children under 21 (immediate relative category).  
+  • Married children of any age (family preference category F3).  
+- A **lawful permanent resident** may file a petition for:  
+  • Unmarried children under 21 (family preference category F2A).  
+  • Unmarried sons and daughters aged 21 or older (family preference category F2B).  
+- The petitioner must be domiciled in the United States and able to financially sponsor the child.  
+
+4. Relationship Definitions and Special Rules  
+- **Biological Child:** Must be born in wedlock or, if out of wedlock, a legal relationship must be established through legitimation or acknowledgment by the father.  
+- **Stepchild:** The marriage creating the stepparent-stepchild relationship must have occurred before the child turned 18.  
+- **Adopted Child:** The adoption must have taken place before the child turned 16, and the child must have resided with and been in the custody of the adoptive parent for at least two years.  
+- **Orphan or Hague Adoption Cases:** Processed through specific USCIS and Department of State adoption procedures.  
+
+5. Validity and Benefits  
+- Once approved and admitted, the child becomes a **lawful permanent resident (Green Card holder)**.  
+- Green Card holders can live, work, and study in the United States.  
+- After meeting residency and other requirements, the child may apply for **U.S. citizenship** through naturalization.  
+- Derivative benefits may extend to the child’s own minor children (in some categories).  
+
+6. Application Steps  
+1. The U.S. citizen or lawful permanent resident files **Form I-130 (Petition for Alien Relative)** with USCIS.  
+2. Once the petition is approved, the National Visa Center (NVC) processes the case for visa issuance.  
+3. If the child is outside the U.S., they apply for an **immigrant visa** at a U.S. consulate abroad (consular processing).  
+4. If the child is already in the U.S. and eligible, they may apply for **adjustment of status** using **Form I-485**.  
+5. Upon approval, the child receives a **Green Card** and becomes a lawful permanent resident.  
+
+7. Key Documents Required  
+- Form I-130, Petition for Alien Relative.  
+- Proof of petitioner’s U.S. citizenship or lawful permanent resident status (passport, birth certificate, or Green Card).  
+- Proof of qualifying parent-child relationship (birth certificate, adoption decree, or marriage certificate for stepchildren).  
+- Passport-style photos of both petitioner and beneficiary.  
+- Form I-864, Affidavit of Support with financial documents (tax returns, W-2s).  
+- Civil documents (police certificates, medical examination, and visa application forms).  
+
+8. Common Reasons for Ineligibility  
+- Failure to prove a valid parent-child relationship.  
+- The child is married or aged 21 or older (not qualifying as an “immediate relative”).  
+- Incomplete or inconsistent documentation.  
+- Failure of the petitioner to meet income requirements.  
+- History of immigration violations or inadmissibility grounds (criminal, medical, or security issues).  
+
+9. Legal References  
+- Immigration and Nationality Act (INA) §201(b)(2)(A)(i) — Immediate Relatives of U.S. Citizens.  
+- INA §203(a)(2) — Family-Sponsored Preferences.  
+- 8 CFR §204.2(d) — Petitions for Children or Sons and Daughters.  
+- USCIS Policy Manual, Volume 6, Part B — Family-Based Classifications.  
+
+10. Notes  
+- The definition of “child” is strictly age- and status-based; turning 21 may move the beneficiary to a lower preference category.  
+- Under the **Child Status Protection Act (CSPA)**, certain beneficiaries may retain classification as a “child” despite turning 21 due to processing delays.  
+- Stepchildren and adopted children must meet strict age and custody requirements for eligibility.  
+- Lawful permanent residents who become U.S. citizens during the process can **upgrade the petition** to an immediate relative category for faster processing.  
+

@@ -1,0 +1,70 @@
+Source: https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-extension-for-stem-students-stem-opt
+Country: United States
+Visa Type: F-1 STEM Optional Practical Training (STEM OPT Extension)
+
+1. Overview  
+The STEM Optional Practical Training (STEM OPT) Extension allows eligible F-1 students who have completed degrees in Science, Technology, Engineering, or Mathematics (STEM) fields to extend their post-completion OPT by 24 months.  
+
+This extension provides additional time for graduates to gain practical training directly related to their degree field while maintaining lawful F-1 student status. It also supports U.S. employers in retaining high-skilled graduates in technical fields.
+
+2. Basic Eligibility Requirements  
+- The student must **currently hold valid F-1 visa status** and be in an authorized period of **post-completion OPT**.  
+- The student must have earned a **bachelor’s, master’s, or doctoral degree** in a **STEM field** included on the **DHS STEM Designated Degree Program List**.  
+- The degree must have been conferred by an **accredited U.S. institution** certified by the Student and Exchange Visitor Program (SEVP).  
+- The student must be **employed by or have a job offer from an employer enrolled in E-Verify**.  
+- Employment must be **paid, full-time (at least 20 hours per week)**, and **directly related to the STEM degree field**.  
+- The student and employer must complete and comply with **Form I-983 (Training Plan for STEM OPT Students)**.  
+- The total period of unemployment during all OPT (initial and STEM extension combined) may not exceed **150 days**.  
+
+3. Employer Requirements  
+- The employer must be **actively registered in the E-Verify program** and remain in good standing.  
+- The employer must provide structured and guided practical training consistent with the objectives listed in **Form I-983**.  
+- The employer must agree to **supervise and evaluate** the student’s progress throughout the training period.  
+- The employer must **report any material changes or termination** of the student’s employment to the DSO within five business days.  
+- The employer must not use the student to replace a U.S. worker and must ensure wage parity with similarly situated employees.  
+
+4. Validity and Duration  
+- The STEM OPT Extension grants **an additional 24 months** of work authorization beyond the initial 12-month post-completion OPT, for a total of **36 months** of practical training.  
+- The extension period begins immediately after the expiration of the student’s initial OPT.  
+- Students may apply for the extension **up to 90 days before** their current OPT end date and must file **Form I-765** before the current EAD expires.  
+- While the extension application is pending, students may continue working for up to **180 days beyond the initial OPT expiration date** if the I-765 is timely filed.  
+
+5. Application Process  
+1. Obtain recommendation for the STEM OPT Extension from your **Designated School Official (DSO)**, who will issue an updated **Form I-20** endorsing the extension.  
+2. Complete **Form I-983 (Training Plan)** with your employer.  
+3. File **Form I-765 (Application for Employment Authorization)** with USCIS before your current OPT Employment Authorization Document (EAD) expires.  
+4. Include all required documents and filing fee with the application.  
+5. Await USCIS adjudication; upon approval, a new EAD valid for 24 months will be issued.  
+
+6. Key Documents Required  
+- Form I-765, Application for Employment Authorization.  
+- Form I-20 endorsed for STEM OPT Extension.  
+- Form I-983, Training Plan for STEM OPT Students (completed and signed by student and employer).  
+- Copy of STEM degree and academic transcripts.  
+- Proof of E-Verify employer registration.  
+- Copy of current and previous EAD cards.  
+- I-94 Arrival/Departure Record, passport, and F-1 visa copies.  
+
+7. Common Reasons for Ineligibility or Denial  
+- Failure to file Form I-765 before expiration of current OPT.  
+- STEM degree not listed on the DHS STEM Designated Degree Program List.  
+- Employment not directly related to the field of study.  
+- Employer not enrolled in or noncompliant with E-Verify.  
+- Missing or incomplete Form I-983 Training Plan.  
+- Exceeding the allowed 150 days of total unemployment during OPT periods.  
+- Unauthorized employment or violation of F-1 student status.  
+
+8. Legal References  
+- Immigration and Nationality Act (INA) §101(a)(15)(F).  
+- 8 CFR §214.2(f)(10)(ii)(C) — STEM OPT Extension Regulations.  
+- DHS Final Rule: “Improving and Expanding Training Opportunities for F-1 Nonimmigrant Students” (81 FR 13039, March 11, 2016).  
+- USCIS Policy Manual, Volume 2, Part F — Nonimmigrant Students and Exchange Visitors.  
+- DHS STEM Designated Degree Program List.  
+
+9. Notes  
+- Students must report employment changes, address updates, or loss of employment to their DSO within **10 days**.  
+- The employer must conduct **annual evaluations** and submit them to the DSO as required under Form I-983.  
+- Students may not work for multiple employers unless each position meets all STEM OPT and training plan requirements.  
+- Travel outside the U.S. while a STEM OPT application is pending may risk denial unless the student holds a valid visa and receipt notice.  
+- STEM OPT is a **one-time extension per degree level** but can be used again after earning a higher-level STEM degree.
+

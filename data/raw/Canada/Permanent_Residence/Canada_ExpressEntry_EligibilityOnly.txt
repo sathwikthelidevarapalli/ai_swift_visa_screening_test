@@ -1,0 +1,81 @@
+Source: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/who-can-apply.html
+Country: Canada
+Program Type: Express Entry (Permanent Residency Pathway)
+
+1. Overview
+The Express Entry system is Canada’s primary application management system for skilled immigration under the federal economic programs. It is designed to select and invite highly qualified candidates for permanent residence based on their skills, work experience, language ability, and potential to contribute to Canada’s economy.  
+Applicants submit an online profile and are ranked using the Comprehensive Ranking System (CRS). Those with the highest scores receive Invitations to Apply (ITA) for permanent residence.
+
+2. Basic Eligibility Requirements
+- The applicant must qualify under at least **one of the three federal economic immigration programs**:
+  • **Federal Skilled Worker Class (FSW)** – for individuals with skilled work experience abroad.  
+  • **Federal Skilled Trades Class (FST)** – for individuals qualified in skilled manual trades.  
+  • **Canadian Experience Class (CEC)** – for individuals with skilled work experience in Canada.  
+- The applicant must meet the **minimum requirements** for **language ability**, **education**, and **work experience**, specific to the chosen program.  
+- The applicant must **create an online Express Entry profile** and be accepted into the Express Entry pool by demonstrating eligibility under one of the three programs.  
+- The applicant will receive a **Comprehensive Ranking System (CRS)** score based on core human capital factors such as age, education, skilled work experience, and official language proficiency.  
+- The applicant must receive an **Invitation to Apply (ITA)** for permanent residence before submitting a complete application to Immigration, Refugees and Citizenship Canada (IRCC).
+
+3. Minimum Program Requirements
+**1. Federal Skilled Worker (FSW) Program**  
+- At least one year of continuous full-time (or equivalent part-time) skilled work experience in the past 10 years in a National Occupational Classification (NOC) TEER 0, 1, 2, or 3 occupation.  
+- Minimum language proficiency of **CLB 7** in English or French.  
+- Educational credential equivalent to a Canadian secondary (high school) diploma or higher.  
+- Proof of sufficient settlement funds (unless already authorized to work in Canada).  
+- A minimum of **67 points out of 100** on the FSW points grid.  
+
+**2. Federal Skilled Trades (FST) Program**  
+- Minimum of **two years of full-time work experience** in a skilled trade within the five years before applying.  
+- Must hold a **valid job offer** for at least one year or a **certificate of qualification** issued by a Canadian provincial, territorial, or federal authority.  
+- Minimum language proficiency of **CLB 5 for speaking and listening**, and **CLB 4 for reading and writing**.  
+
+**3. Canadian Experience Class (CEC)**  
+- At least one year of skilled work experience in Canada (NOC TEER 0, 1, 2, or 3) within the last three years.  
+- Minimum language proficiency of **CLB 7** (for NOC TEER 0 or 1) or **CLB 5** (for TEER 2 or 3).  
+- Work experience must be obtained while legally authorized to work in Canada.
+
+4. Ranking and Invitation Process
+- Candidates in the Express Entry pool are ranked using the **Comprehensive Ranking System (CRS)**.  
+- The CRS awards points based on factors including:  
+  • Age  
+  • Level of education  
+  • Official language proficiency (English/French)  
+  • Skilled work experience  
+  • Arranged employment in Canada  
+  • Provincial nomination (adds 600 points)  
+  • Canadian education or family relationships  
+- The highest-ranked candidates receive **Invitations to Apply (ITA)** during periodic draws conducted by IRCC.
+
+5. Documentation Requirements
+- Valid **passport or travel document**.  
+- **Educational Credential Assessment (ECA)** for foreign education.  
+- **Language test results** from approved agencies (IELTS, CELPIP, TEF, or TCF).  
+- **Proof of work experience** (reference letters, pay slips, or contracts).  
+- **Proof of funds** (unless exempt under CEC or with a valid job offer).  
+- **Medical examination** and **police clearance certificates** at the final stage.  
+
+6. Admissibility Criteria
+- The applicant and accompanying family members must be **admissible to Canada**, including medical, criminal, and security checks.  
+- Individuals found inadmissible under the **Immigration and Refugee Protection Act (IRPA)** are not eligible for permanent residence.  
+
+7. Common Reasons for Ineligibility
+- Failure to meet program-specific requirements.  
+- Low CRS score preventing issuance of an ITA.  
+- Invalid or expired language test or ECA results.  
+- Incomplete documentation or misrepresentation.  
+- Medical or criminal inadmissibility.
+
+8. Legal References
+- **Immigration and Refugee Protection Act (IRPA), Sections 10.1–11.2** — Express Entry provisions.  
+- **Immigration and Refugee Protection Regulations (IRPR), Part 6** — Economic Class programs.  
+- **IRCC Express Entry Ministerial Instructions** — CRS ranking and invitation system.  
+- **Government of Canada – IRCC Express Entry Guidelines**.
+
+9. Notes
+- An Express Entry profile remains valid for **12 months**.  
+- Receiving an ITA does not guarantee permanent residence; applicants must submit complete documentation and meet all admissibility requirements.  
+- Candidates may update their profile at any time to improve CRS scores.  
+- Provincial nomination or arranged employment significantly increases CRS ranking.  
+- Once permanent residence is granted, individuals may live and work anywhere in Canada.
+
+

@@ -1,0 +1,71 @@
+Source: https://www.gov.uk/claim-asylum/eligibility
+Country: United Kingdom
+Program Type: Asylum / Refugee Protection
+
+1. Overview
+The UK Asylum and Refugee Protection program provides safety and legal residence to individuals who cannot return to their home country due to a well-founded fear of persecution.  
+It is designed to protect those whose lives, freedom, or safety are threatened in their country of origin based on specific protected grounds under international refugee law.  
+Successful applicants are granted refugee status or humanitarian protection and may remain in the UK lawfully, with access to housing, healthcare, and support.
+
+2. Basic Eligibility Requirements
+- The applicant must be **physically present in the United Kingdom** at the time of applying for asylum.  
+- The applicant must be **unable to live safely in their home country** due to a **well-founded fear of persecution**.  
+- The persecution must be based on at least one of the following grounds:  
+  • Race  
+  • Religion  
+  • Nationality  
+  • Political opinion  
+  • Membership in a particular social group (including gender identity or sexual orientation).  
+- The applicant must have **sought and been unable to obtain protection** from the authorities in their home country.  
+- The applicant must not already have protection in another country or under the jurisdiction of another government or organization (e.g., EU Member State under the Dublin Regulation).  
+
+3. Definition of Persecution
+- Persecution may include threats to life, torture, inhumane treatment, or severe discrimination due to the applicant’s identity or beliefs.  
+- It can be committed by:  
+  • The government of the applicant’s home country.  
+  • Non-state actors (groups or individuals) whom the government is unable or unwilling to control.  
+
+4. Application Process
+1. Register your asylum claim with **UK Visas and Immigration (UKVI)** upon arrival or as soon as possible after entering the UK.  
+2. Attend an **initial screening interview** to record personal details, reasons for seeking asylum, and identity verification.  
+3. Participate in a **substantive asylum interview** with a caseworker to explain your situation in detail and provide supporting evidence.  
+4. Receive a **decision** on your claim, which may result in one of the following outcomes:  
+   • **Refugee Status** (5-year residence, leading to settlement).  
+   • **Humanitarian Protection** (if not qualifying as a refugee but at risk of serious harm).  
+   • **Refusal** (with or without the right to appeal).  
+
+5. Required Documentation
+- Valid passport or national ID (if available).  
+- Any evidence supporting the claim of persecution (e.g., police reports, medical records, witness statements).  
+- Proof of identity and nationality (birth certificate, travel documents).  
+- Residence or entry documentation for the UK (if available).  
+- Evidence of attempts to seek protection in the home country.  
+
+6. Ineligibility Conditions
+An asylum claim may be refused if the applicant:  
+- Arrived from or transited through a **“safe third country”** where protection was available.  
+- Has previously received protection or refugee status in another country.  
+- Cannot demonstrate a genuine risk of persecution or serious harm.  
+- Provided false or incomplete information during the asylum process.  
+- Is considered a danger to national security or has committed a serious crime.  
+
+7. Rights and Benefits
+- Successful applicants receive **Refugee Status** (valid for 5 years) or **Humanitarian Protection** (also valid for 5 years).  
+- They are entitled to:  
+  • Work and study in the UK.  
+  • Access healthcare through the **NHS**.  
+  • Apply for **family reunification** under certain conditions.  
+  • Apply for **Indefinite Leave to Remain (ILR)** after 5 years of lawful residence.  
+
+8. Legal References
+- **1951 UN Refugee Convention** and **1967 Protocol**.  
+- **Immigration Rules – Part 11: Asylum**.  
+- **Nationality, Immigration and Asylum Act 2002**.  
+- **UK Home Office Asylum Policy Instructions**.  
+
+9. Notes
+- Asylum claims must be made **inside the UK** — applications cannot be made from abroad.  
+- Unaccompanied children can apply for asylum through a child welfare representative.  
+- Appeals against refusals can be made to the **First-tier Tribunal (Immigration and Asylum Chamber)**.  
+- Individuals refused asylum but facing serious risk may be eligible for **Humanitarian Protection** instead.  
+- Applicants are expected to comply with reporting and residence requirements while their case is pending.

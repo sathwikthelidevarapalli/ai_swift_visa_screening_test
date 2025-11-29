@@ -1,0 +1,8 @@
+gov/green-card/green-card-eligibility/green-card-for-immediate-relatives-of-us-citizen Country: United States Visa Category: Family-Based Immigrant Visa (Immediate Relatives of U
+ Basic Eligibility Requirements - The beneficiary must be an **immediate relative of a U
+ - The petitioner must meet the **financial sponsorship requirements** (Form I-864, Affidavit of Support)
+ Key Documents Required - Form I-130, Petition for Alien Relative
+ Common Reasons for Ineligibility - Failure to prove a valid immediate family relationship
+ - Petitioner not meeting age or citizenship requirements
+ - Step and adopted relationships must meet strict legal age and custody requirements
+ - The Child Status Protection Act (CSPA) may preserve eligibility for children who turn 21 before processing is complete

@@ -1,0 +1,65 @@
+Source: https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-opt-for-f-1-students
+Country: United States
+Visa Type: F-1 Optional Practical Training (OPT)
+
+1. Overview  
+Optional Practical Training (OPT) is a form of temporary employment authorization available to F-1 students that allows them to gain practical experience in their field of study. It is designed to provide students with real-world training directly related to their academic program at a SEVP-certified institution.  
+
+OPT can be authorized during or after completion of a degree program and is intended to help students bridge the gap between academic study and professional employment.
+
+2. Basic Eligibility Requirements  
+- The applicant must currently hold **valid F-1 visa status** and be enrolled in a full course of study at a **SEVP-certified school**.  
+- The applicant must have **completed at least one full academic year** of study before applying for OPT.  
+- The student must be pursuing an eligible **degree, diploma, or certificate program**.  
+- The proposed employment must be **directly related to the student’s major field of study**.  
+- The student must apply for OPT **before beginning employment**.  
+- Students who have completed **12 or more months of full-time Curricular Practical Training (CPT)** are **not eligible** for OPT.  
+- The student must **maintain lawful F-1 status** during the entire OPT application and employment period.  
+
+3. Types of OPT  
+- **Pre-Completion OPT:** Available while the student is still pursuing their studies. Work may be part-time (up to 20 hours per week) during school sessions or full-time during breaks.  
+- **Post-Completion OPT:** Available after the student has completed their degree program. Full-time employment is permitted.  
+- **STEM OPT Extension:** Eligible students with degrees in Science, Technology, Engineering, or Mathematics (STEM) may apply for a **24-month extension** of post-completion OPT, if employed by a **E-Verify registered employer**.  
+
+4. Validity and Duration  
+- Students may be authorized for up to **12 months of full-time OPT** at each higher education level (bachelor’s, master’s, doctoral).  
+- STEM graduates may qualify for an **additional 24-month extension** of OPT (for a total of 36 months).  
+- The employment start date must be within **60 days of completing the academic program**.  
+- OPT authorization is granted by **USCIS** upon approval of Form I-765 (Application for Employment Authorization).  
+
+5. Application Process  
+1. Obtain recommendation for OPT from your **Designated School Official (DSO)** and receive an updated Form I-20 indicating OPT request.  
+2. File **Form I-765 (Application for Employment Authorization)** with USCIS before the end of your 60-day grace period after program completion (for post-completion OPT).  
+3. Include the required filing fee, Form I-20 copy, passport, visa, I-94 record, and passport-style photos.  
+4. Await approval and issuance of the **Employment Authorization Document (EAD)**.  
+5. Begin work only after receiving the **EAD** and the start date listed on it.  
+
+6. Key Documents Required  
+- Form I-765, Application for Employment Authorization.  
+- Form I-20 with DSO endorsement for OPT.  
+- I-94 Arrival/Departure Record.  
+- Copy of valid passport and F-1 visa.  
+- Passport-style photos meeting USCIS specifications.  
+- Filing fee payment or approved fee waiver.  
+- Job offer letter (if applicable, though not required for initial filing).  
+
+7. Common Reasons for Ineligibility or Denial  
+- Filing OPT application after the program completion deadline or beyond the 60-day grace period.  
+- Completion of 12 or more months of full-time Curricular Practical Training (CPT).  
+- Employment not directly related to the field of study.  
+- Violation of F-1 student status or unauthorized employment.  
+- Missing or incomplete documentation in Form I-765 submission.  
+
+8. Legal References  
+- Immigration and Nationality Act (INA) §101(a)(15)(F).  
+- 8 CFR §214.2(f)(10)–(12) — F-1 Student Employment Regulations.  
+- USCIS Policy Manual, Volume 2, Part F — Nonimmigrant Classes.  
+- DHS STEM OPT Final Rule (81 FR 13039, March 11, 2016).  
+
+9. Notes  
+- OPT is a **benefit of F-1 status**, not a separate visa type.  
+- Students may not begin employment until **EAD is received** and valid.  
+- Time spent in pre-completion OPT counts toward the 12-month total.  
+- STEM OPT extension requires compliance with employer reporting, training plans, and validation requirements.  
+- Students must report employment information to their DSO throughout OPT authorization.  
+- USCIS may deny OPT if filing deadlines or SEVIS data updates are not met.

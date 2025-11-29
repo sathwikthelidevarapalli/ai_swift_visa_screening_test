@@ -1,0 +1,79 @@
+Source: https://www.uscis.gov/working-in-the-united-states/temporary-workers/h-1b-specialty-occupations  
+Country: United States  
+Visa Type: H-1B Visa (Nonimmigrant – Specialty Occupation)
+
+1. Overview  
+The H-1B visa program allows U.S. employers to hire qualified foreign professionals in specialty occupations that require the application of theoretical and practical knowledge. Typical fields include information technology, computer science, finance, healthcare, mathematics, architecture, and engineering.  
+It is a dual-intent visa, meaning holders can lawfully pursue permanent residency while in H-1B status. The H-1B category is regulated by the U.S. Citizenship and Immigration Services (USCIS) and the Department of Labor (DOL).
+
+2. Basic Eligibility Requirements  
+- The applicant must have a valid job offer from a U.S. employer in a specialty occupation that requires a bachelor’s degree or higher.  
+- The applicant must possess at least a bachelor’s degree or its equivalent in work experience. Each three years of professional experience may substitute for one year of university education.  
+- The employer must obtain a certified Labor Condition Application (LCA) from the U.S. Department of Labor before filing the petition.  
+- The employer must file Form I-129 (Petition for a Nonimmigrant Worker) on behalf of the applicant with USCIS.  
+- The wage offered must be at or above the prevailing wage for the specific occupation and geographic area.  
+- The applicant must have specialized knowledge and skills directly related to the offered position.  
+- The H-1B cap applies to most applicants — an annual numerical limit of 65,000 regular H-1Bs and an additional 20,000 for U.S. master’s degree holders.  
+- Certain employers (universities, research organizations) are “cap-exempt,” meaning they can file at any time of year.
+
+3. Validity Period and Extensions  
+- The H-1B visa is initially granted for a period of up to three years.  
+- It can be extended in increments, up to a total maximum of six years.  
+- Time spent outside the U.S. may be recaptured and added to the six-year total.  
+- Extensions beyond six years may be granted if the green card process (PERM, I-140) has been initiated and is pending.  
+- H-1B visa holders who have filed for adjustment of status may continue working under AC21 portability rules.
+
+4. Employer Obligations  
+- Must maintain a valid employer–employee relationship throughout the visa period (the employer controls work location, duties, supervision, and payment).  
+- Must pay at least the prevailing wage and ensure working conditions do not adversely affect similarly employed U.S. workers.  
+- Must post an LCA notice at the worksite to inform employees of the H-1B hire.  
+- Must keep public access files with the certified LCA, pay details, and job descriptions available for inspection by DOL.  
+- Must notify USCIS of material job changes, termination, or layoffs affecting the H-1B worker.
+
+5. Application Steps  
+1. Employer determines the specialty occupation and gathers job details.  
+2. Employer files a Labor Condition Application (LCA) with the Department of Labor for certification.  
+3. Employer files Form I-129 with USCIS, including the certified LCA, proof of qualification, and job offer.  
+4. Upon approval, USCIS issues a Form I-797 Notice of Action.  
+5. If the worker is outside the U.S., they apply for an H-1B visa at a U.S. consulate or embassy.  
+6. Upon visa issuance, the worker travels to the U.S. and begins employment on or after the approved start date.  
+7. Spouses and children under 21 can apply for H-4 dependent visas.
+
+6. Key Documents Required  
+- Certified Labor Condition Application (LCA).  
+- Form I-129, Petition for a Nonimmigrant Worker.  
+- Employer’s support letter describing job duties, minimum qualifications, and offered wage.  
+- Applicant’s educational credentials (degrees, transcripts, evaluations).  
+- Professional license (if required for the occupation).  
+- Passport copies and prior immigration documents (if applicable).  
+- Proof of maintenance of status (for change-of-status applicants within the U.S.).  
+
+7. Common Reasons for Ineligibility  
+- Job does not meet the “specialty occupation” definition (no degree requirement or too general).  
+- Applicant’s qualifications are not relevant to the position offered.  
+- Employer fails to obtain or comply with the certified LCA requirements.  
+- Employer is unable to demonstrate sufficient control or a valid employment relationship.  
+- Submission of false, incomplete, or inconsistent documentation.  
+- Exceeding the annual H-1B cap without an exemption.  
+
+8. Rights and Limitations  
+- The H-1B visa is employer-specific. Changing employers requires filing a new petition (portability rule allows work with new employer after receipt notice).  
+- H-1B holders may work for multiple employers only if each employer files a separate H-1B petition.  
+- H-1B workers may study part-time in the U.S. without separate F-1 status.  
+- Spouses and children (H-4 visa holders) may live in the U.S.; certain H-4 spouses with approved I-140 petitions may apply for employment authorization.  
+- H-1B visa holders may pursue permanent residency through employment-based categories (EB-2, EB-3).  
+
+9. Legal References  
+- Immigration and Nationality Act (INA) §101(a)(15)(H)(i)(b).  
+- 8 CFR 214.2(h) — H-1B Nonimmigrant Regulations.  
+- 20 CFR Part 655 Subpart H — Labor Condition Application Requirements.  
+- American Competitiveness in the Twenty-First Century Act (AC21).  
+
+10. Notes  
+- Cap-exempt H-1Bs (universities, nonprofit research institutions) are not subject to the annual numerical quota.  
+- Employers must withdraw petitions if the worker leaves employment.  
+- Periods of unemployment exceeding 60 days may result in loss of status.  
+- Dependents under H-4 status can attend school and apply for work authorization under specific conditions.  
+- H-1B visa can serve as a bridge toward permanent residence through employer-sponsored green cards.
+
+End of File

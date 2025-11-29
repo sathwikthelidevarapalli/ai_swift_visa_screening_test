@@ -1,0 +1,61 @@
+Source: https://www.uscis.gov/policy-manual/volume-2-part-d-chapter-3
+Country: United States
+Visa Type: J-1 Exchange Visitor
+
+1. Overview  
+The J-1 Exchange Visitor Program is a nonimmigrant visa category that allows individuals to participate in U.S. Department of State–designated exchange programs for purposes such as teaching, studying, conducting research, receiving training, or participating in cultural exchange.  
+
+Under USCIS policy guidance, the duration of stay, terms of participation, and post-completion rules are defined to ensure lawful compliance and adherence to exchange program objectives.
+
+2. Admission and Duration of Status  
+- J-1 exchange visitors are admitted to the United States for the **duration of their exchange program** as indicated on **Form DS-2019 (Certificate of Eligibility)**.  
+- In addition to the program period, participants are granted a **30-day grace period** following program completion to prepare for departure, travel within the U.S., or change of status (if eligible).  
+- During this grace period, participants **cannot engage in employment or program activities** unless authorized under their valid program.  
+
+3. Departure and Program Completion  
+- Exchange visitors must **depart the United States no later than 30 days** after the completion of their program unless they have obtained:  
+  • An approved **change of status** to another visa classification; or  
+  • A **waiver** of the two-year home-country physical presence requirement (if applicable).  
+- Overstaying beyond the grace period results in **loss of J-1 status** and may affect future immigration eligibility.  
+
+4. Two-Year Home-Country Physical Presence Requirement (INA §212(e))  
+- Certain J-1 exchange visitors are **subject to a two-year home residency requirement**, meaning they must reside physically in their **home country for at least two years** before they become eligible to apply for certain U.S. visa categories or permanent residence.  
+- The requirement generally applies to individuals who:  
+  • Received U.S. government or home-country government funding for their program;  
+  • Participated in programs involving specialized knowledge or skills needed in their home country; or  
+  • Received graduate medical education or training in the United States.  
+- Affected participants **cannot change status** to an H visa, L visa, K visa, or apply for an immigrant visa until the two-year requirement is satisfied or officially waived.  
+
+5. Waiver of the Two-Year Rule  
+- A waiver may be requested under one or more of the following grounds:  
+  • **No Objection Statement** from the applicant’s home government;  
+  • **Interested U.S. Government Agency (IGA) Request**;  
+  • **Persecution** based on race, religion, or political opinion;  
+  • **Exceptional Hardship** to a U.S. citizen or lawful permanent resident spouse or child;  
+  • **Conrad 30 Program** for certain physicians working in underserved areas.  
+- Approval of a waiver does not automatically change the visa status; the applicant must still file a change of status application if intending to remain in the United States under a different visa category.  
+
+6. Maintaining Status  
+- Participants must **remain under the supervision of their program sponsor** throughout the duration of their stay.  
+- Any changes to program activity, site of activity, or category must be approved by the program sponsor and updated in SEVIS.  
+- Exchange visitors must **maintain valid health insurance** meeting the minimum J-1 regulatory requirements.  
+- Employment is allowed only if **authorized** as part of the J-1 program or by the Responsible Officer.  
+
+7. Dependents (J-2 Status)  
+- Spouses and unmarried children under 21 years old may accompany or join the J-1 principal as **J-2 dependents**.  
+- J-2 dependents may apply for **employment authorization (Form I-765)**, provided their income is not intended to support the J-1 participant.  
+- J-2 dependents are generally subject to the same home-country physical presence requirement as the principal J-1 exchange visitor.  
+
+8. Legal References  
+- Immigration and Nationality Act (INA) §101(a)(15)(J) — Exchange Visitor Classification.  
+- INA §212(e) — Two-Year Foreign Residence Requirement.  
+- 22 CFR Part 62 — Department of State Exchange Visitor Program Regulations.  
+- 8 CFR §214.2(j) — J-1 Status and Duration Rules.  
+- USCIS Policy Manual, Volume 2, Part D, Chapter 3 — J-1 Exchange Visitor Policy.  
+
+9. Notes  
+- The 30-day grace period applies uniformly across all J-1 categories and is strictly non-extendable.  
+- Waivers under INA 212(e) do not automatically adjust status; further filing with USCIS is required.  
+- Any violation of J-1 terms (unauthorized employment, non-participation, or SEVIS noncompliance) results in termination of status.  
+- Sponsors are responsible for monitoring compliance and reporting any program deviations to the Department of State and USCIS.
+

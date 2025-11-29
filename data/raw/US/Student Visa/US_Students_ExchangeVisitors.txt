@@ -1,0 +1,53 @@
+Source: https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors
+Country: United States
+Visa/Status Type: F-1, M-1, J-1 Students & Exchange Visitors
+
+1. Overview
+The F-1, M-1, and J-1 visa categories allow eligible international students and exchange visitors to enter the United States temporarily for the purpose of study, training, or cultural exchange. Each visa type has distinct eligibility conditions based on the nature of the educational or exchange program.
+
+F-1 visas are designed for academic and language-training students; M-1 visas are intended for vocational or nonacademic students; and J-1 visas are issued to participants in officially approved exchange programs.
+
+2. Basic Eligibility Requirements
+- The applicant must qualify under one of the three categories:
+  • **F-1:** Academic or language-training student.  
+  • **M-1:** Vocational or nonacademic training student.  
+  • **J-1:** Exchange visitor under a U.S. Department of State–designated program.
+- The applicant must be **accepted by a SEVP-certified institution** (for F-1/M-1) or a **designated program sponsor** (for J-1).
+- Must **maintain full-time enrollment** in the program for which the visa was issued.
+- Must demonstrate **English language proficiency** or be enrolled in courses leading to proficiency.
+- Must provide evidence of **sufficient financial resources** to support tuition and living expenses for the entire period of study or exchange participation.
+- Must possess and maintain a **valid Form I-20** (for F-1/M-1) or **Form DS-2019** (for J-1), issued by the authorized institution or sponsor.
+
+3. Residence and Intent
+- F-1 and M-1 applicants must maintain a **residence abroad** and demonstrate **intent to return home** after completing their program.
+- J-1 participants must meet the **program-specific requirements** of their sponsor and may be subject to the **two-year home-country residence requirement** under INA §212(e), depending on their program type and funding source.
+
+4. Financial and Health Requirements
+- The applicant must show verifiable proof of **financial support** (bank statements, scholarships, sponsorships, etc.) covering tuition, housing, and other expenses.
+- Must maintain **adequate health insurance coverage** throughout the stay in the United States, meeting minimum program requirements.
+
+5. Maintaining Status
+- Must **attend and complete the educational or exchange program** as authorized.
+- Must **report address changes, program extensions, or transfers** through the Designated School Official (DSO) for F/M visas or Responsible Officer (RO) for J-1 programs.
+- Employment is restricted and only allowed under **authorized conditions** such as on-campus work, OPT (F-1), practical training (M-1), or approved exchange employment (J-1).
+- Unauthorized employment or failure to maintain full-time enrollment may result in **termination of SEVIS record** and loss of status.
+
+6. Dependents
+- Dependents (spouse and unmarried children under 21) may accompany the principal visa holder under **F-2, M-2, or J-2 status**.
+- F-2 and M-2 dependents are not permitted to work; J-2 dependents may apply for employment authorization (Form I-765) if eligible.
+
+7. Legal References
+- Immigration and Nationality Act (INA) §101(a)(15)(F), (M), and (J) — Nonimmigrant Student and Exchange Visitor Classifications.
+- 8 CFR §214.2(f), §214.2(m), §214.2(j) — Regulations for F, M, and J Status.
+- USCIS Policy Manual, Volume 2, Part F — Students and Exchange Visitors.
+- Department of State 22 CFR Part 62 — Exchange Visitor Program Regulations.
+
+8. Notes
+- F-1 and M-1 students must obtain authorization for any form of practical training before employment begins.
+- J-1 participants are subject to sponsor oversight and SEVIS compliance requirements.
+- Applicants who fail to maintain status must seek reinstatement or depart the United States to avoid accrual of unlawful presence.
+- Dependents and principal applicants must both maintain valid SEVIS status records.
+
+
+
+

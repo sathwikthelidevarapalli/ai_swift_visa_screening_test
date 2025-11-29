@@ -1,0 +1,67 @@
+Source: https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/students-and-employment/changing-to-a-nonimmigrant-f-or-m-student-status
+Country: United States
+Visa/Status Type: Change to F-1 or M-1 Student Status
+
+1. Overview  
+Individuals currently in the United States under another valid nonimmigrant status may apply to change their immigration status to **F-1 (Academic Student)** or **M-1 (Vocational Student)** if they intend to pursue a full course of study at a Student and Exchange Visitor Program (SEVP)-certified school.  
+
+This process allows eligible applicants to remain in the United States while transitioning from another visa category (such as B-1/B-2, H-4, or L-2) to a student classification without leaving the country. The change of status must be approved by **U.S. Citizenship and Immigration Services (USCIS)** before beginning studies.
+
+2. Basic Eligibility Requirements  
+- The applicant must **currently hold a valid nonimmigrant status** at the time of filing **Form I-539 (Application to Extend/Change Nonimmigrant Status)**.  
+- The applicant must **maintain lawful immigration status** throughout the entire period leading up to the effective date of F-1 or M-1 approval.  
+- The applicant must **not begin classes** until USCIS approves the change of status, unless their current visa category already permits study.  
+- The school issuing the Form **I-20 (Certificate of Eligibility for Nonimmigrant Student Status)** must be **SEVP-certified** and authorized to enroll nonimmigrant students.  
+- The applicant must demonstrate **nonimmigrant intent**, showing that their stay in the U.S. is temporary and tied to their study program.  
+- The applicant must have sufficient **financial support** to cover tuition and living expenses during their program.  
+- Individuals in **M-1 status cannot change to F-1 status** while inside the United States.  
+
+3. Special Timing and Maintenance of Status Rules  
+- If an applicant is changing to **F-1 status** and the approval occurs **more than 30 days before the program start date**, they may **not begin any employment** (on-campus or off-campus) earlier than 30 days before classes begin.  
+- If changing to **M-1 status** and the applicant’s current visa status will **expire more than 30 days before** the new program start date, the applicant must file a **“bridging” I-539 application** to maintain continuous lawful status until the F-1/M-1 change is approved.  
+- Applicants must ensure there are **no gaps in lawful status**, as a lapse may result in denial of the change of status request.  
+- The applicant must remain in the United States while the change of status application is pending; **departure from the U.S. while pending results in abandonment** of the application.  
+
+4. Validity and Conditions  
+- Upon approval, the applicant assumes **F-1 or M-1 status** and is subject to all related rules and limitations.  
+- **F-1 students** are admitted for the duration of their studies (“Duration of Status” or D/S) and may engage in authorized on-campus work or practical training.  
+- **M-1 students** are admitted for a fixed period tied to the length of their vocational program and cannot transfer to F-1 status while in the U.S.  
+- The change of status approval does **not grant a new visa stamp**; if the individual travels outside the United States, they must obtain a student visa at a U.S. consulate before re-entry.  
+
+5. Application Process  
+1. Obtain acceptance and a **Form I-20** from an SEVP-certified school.  
+2. Pay the **I-901 SEVIS fee**.  
+3. File **Form I-539 (Application to Extend/Change Nonimmigrant Status)** with USCIS, including supporting documents.  
+4. Include evidence of current status, financial ability, and intent to pursue full-time study.  
+5. Wait for USCIS decision; do not begin studies until approval is granted.  
+
+6. Key Documents Required  
+- Form I-20 issued by SEVP-certified school.  
+- Form I-539, Application to Extend/Change Nonimmigrant Status.  
+- Receipt of I-901 SEVIS fee payment.  
+- Evidence of current nonimmigrant status (I-94 record, visa, or approval notice).  
+- Proof of financial resources (bank statements, affidavits of support, or scholarship letters).  
+- Copy of valid passport and prior immigration documents.  
+- Written statement explaining intent to study and maintain student status.  
+
+7. Common Reasons for Ineligibility or Denial  
+- Failure to maintain lawful nonimmigrant status prior to filing.  
+- Beginning coursework before USCIS approval (if not authorized by current visa).  
+- Lack of continuous residence or expired prior visa status.  
+- Missing bridging application (for M-1 applicants with status gaps).  
+- Applicant in M-1 status attempting to change to F-1.  
+- Inadequate proof of financial resources or nonimmigrant intent.  
+
+8. Legal References  
+- Immigration and Nationality Act (INA) §248 — Change of Nonimmigrant Classification.  
+- 8 CFR §214.2(f) — Academic Student (F-1) Regulations.  
+- 8 CFR §214.2(m) — Vocational Student (M-1) Regulations.  
+- USCIS Policy Manual, Volume 2, Part F — Nonimmigrant Classes.  
+- DHS/SEVP Guidance for Maintaining Status During Change of Status.  
+
+9. Notes  
+- Applicants must remain in valid status until USCIS issues a decision; **bridging applications** may be required for status continuity.  
+- Filing a change of status does not automatically extend existing stay authorization.  
+- F-1/M-1 students may only begin study at an **SEVP-certified institution** listed in the Student and Exchange Visitor Information System (SEVIS).  
+- If the application is denied, the individual must **depart the United States immediately** or risk accruing unlawful presence.  
+- The applicant may alternatively apply for an **F-1 or M-1 visa abroad** and re-enter the U.S. in student status.

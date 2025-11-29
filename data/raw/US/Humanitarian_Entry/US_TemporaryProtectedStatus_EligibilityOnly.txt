@@ -1,0 +1,69 @@
+Source: https://www.uscis.gov/humanitarian/temporary-protected-status
+Country: United States
+Entry Category: Temporary Protected Status (TPS)
+
+
+1. Overview  
+Temporary Protected Status (TPS) is a humanitarian immigration benefit that allows eligible nationals of certain designated countries to remain temporarily in the United States when conditions in their home countries prevent safe return.  
+
+TPS may be designated due to ongoing armed conflict, environmental disasters (such as earthquakes, hurricanes, or epidemics), or other extraordinary and temporary conditions. During the designated period, TPS beneficiaries are protected from removal and may obtain work authorization and, in some cases, travel authorization.
+
+2. Basic Eligibility Requirements  
+- The applicant must be a **national of a country designated for TPS**, or a person without nationality who last habitually resided in such a country.  
+- The applicant must have been **continuously physically present** in the United States since the effective date specified in the country’s TPS designation notice.  
+- The applicant must have **continuously resided** in the United States since the date specified for their country’s designation.  
+- The applicant must **not have been convicted** of any felony or two or more misdemeanors committed in the United States.  
+- The applicant must **not be inadmissible** under certain provisions of the Immigration and Nationality Act (INA) that cannot be waived, unless granted a waiver by USCIS.  
+- Applicants must file during the **initial registration period** or meet the requirements for **late initial filing** as defined by USCIS.  
+- Applicants must undergo **security and background checks**, including fingerprinting and criminal record verification.
+
+3. Benefits and Protections  
+- Individuals granted TPS are **not removable** from the United States during the designated period.  
+- TPS holders may **apply for employment authorization** (Form I-765) to work legally in the U.S.  
+- TPS beneficiaries may **apply for travel authorization** (Form I-131) for specific reasons approved by USCIS.  
+- TPS designation does **not lead to permanent resident status**, but holders may apply for another immigration benefit if eligible.  
+- TPS does **not prevent deportation** if the status is withdrawn or terminated for cause (e.g., criminal convictions or ineligibility).  
+
+4. Validity and Duration  
+- TPS is typically granted for a **limited period** (6–18 months) and may be **extended** if unsafe conditions in the home country persist.  
+- Extensions, redesignations, or terminations of TPS are announced by the **U.S. Department of Homeland Security (DHS)** in the **Federal Register**.  
+- Individuals must **re-register** during each re-registration period to maintain TPS status and employment authorization.  
+
+5. Application Process  
+1. Confirm your country’s **designation and registration dates** on the USCIS TPS webpage.  
+2. File **Form I-821 (Application for Temporary Protected Status)** with USCIS during the designated registration or re-registration period.  
+3. File **Form I-765 (Application for Employment Authorization)** if work authorization is desired.  
+4. Include all required fees or approved fee waiver (Form I-912).  
+5. Attend biometrics and background checks as scheduled by USCIS.  
+6. Await notification of approval or denial of TPS.  
+
+6. Key Documents Required  
+- Form I-821, Application for Temporary Protected Status.  
+- Proof of identity and nationality (passport, birth certificate, or national ID).  
+- Proof of continuous residence and physical presence (rental receipts, bills, school or employment records, etc.).  
+- Two passport-style photos.  
+- Form I-765 (optional, for employment authorization).  
+- Filing fee receipts or approved fee waiver request.  
+
+7. Common Reasons for Ineligibility  
+- Failure to meet nationality, residence, or physical presence requirements.  
+- Conviction of a **felony** or two or more **misdemeanors** in the U.S.  
+- Certain criminal, security, or terrorism-related inadmissibility grounds under the INA.  
+- Missing filing deadlines without qualifying for late initial registration.  
+- Providing false information or fraudulent documentation.  
+- Departure from the United States without obtaining travel authorization.  
+
+8. Legal References  
+- Immigration and Nationality Act (INA) §244 — Temporary Protected Status.  
+- 8 CFR §244 — Regulations Governing TPS.  
+- Federal Register Notices for individual country designations.  
+- USCIS Policy Manual, Volume 7, Part B — Temporary Protected Status.  
+- DHS Designation and Redesignation Announcements.  
+
+9. Notes  
+- TPS is a **temporary humanitarian measure**, not a permanent immigration status.  
+- Beneficiaries must **maintain compliance** with all TPS filing and re-registration requirements.  
+- TPS holders may apply for **adjustment of status**, asylum, or other immigration benefits separately if eligible.  
+- Failure to re-register on time may result in loss of TPS and employment authorization.  
+- Termination of TPS for a specific country requires a formal DHS notice and advance warning period.
+

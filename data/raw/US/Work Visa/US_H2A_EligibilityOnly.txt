@@ -1,0 +1,63 @@
+Source: https://www.uscis.gov/working-in-the-united-states/temporary-workers/h-2a-temporary-agricultural-workers
+Country: United States
+Visa Type: H-2A Temporary Agricultural Workers
+
+1. Overview  
+The H-2A visa program allows U.S. employers or authorized agents to bring foreign nationals to the United States to fill temporary or seasonal agricultural jobs when there are not enough U.S. workers available. The program ensures that foreign workers receive fair wages and safe working conditions while protecting U.S. labor standards.
+
+2. Basic Eligibility Requirements  
+- The U.S. employer, association, or agent must offer employment that is of a temporary or seasonal nature, typically related to planting, cultivating, harvesting, or other agricultural activities.  
+- The employer must demonstrate a shortage of available, qualified, and willing U.S. workers for the position.  
+- The employer must show that employing H-2A workers will not adversely affect the wages or working conditions of similarly employed U.S. workers.  
+- The employer must obtain a valid Temporary Labor Certification (TLC) from the U.S. Department of Labor (DOL) prior to petitioning USCIS.  
+- The employer must file Form I-129 (Petition for a Nonimmigrant Worker) with USCIS, including the certified TLC.  
+- The applicant (foreign worker) must be from a country designated by the Department of Homeland Security (DHS) as eligible for the H-2A program.  
+- Each worker must demonstrate intent to return home after the authorized employment period.
+
+3. Validity Period and Extensions  
+- The initial H-2A visa is typically valid for the duration of the certified labor period, up to one year.  
+- Extensions may be granted in increments of up to one year each, with a maximum continuous stay of three years.  
+- After three years, the worker must leave the U.S. for at least three consecutive months before seeking readmission under H-2A status.
+
+4. Employer Obligations  
+- Must provide free, approved housing to H-2A workers and to U.S. workers in corresponding employment who cannot reasonably return to their residences at night.  
+- Must provide at least three meals per day or furnish free cooking facilities.  
+- Must provide transportation from the worker’s housing to the worksite and, upon contract completion, return transportation to the worker’s home country.  
+- Must pay the workers at least the highest of the following: the Adverse Effect Wage Rate (AEWR), the prevailing wage, the agreed-upon collective bargaining wage, or the federal/state minimum wage.  
+- Must comply with all recruitment, recordkeeping, and non-discrimination requirements under the DOL regulations.  
+
+5. Application Steps  
+1. Employer applies for a Temporary Labor Certification (TLC) from the U.S. Department of Labor (DOL).  
+2. Once the TLC is certified, the employer files Form I-129 with USCIS.  
+3. Upon petition approval, prospective workers apply for an H-2A visa at a U.S. consulate or embassy abroad.  
+4. The worker enters the U.S. and begins employment during the authorized period.  
+
+6. Key Documents Required  
+- Certified Temporary Labor Certification (TLC) from DOL.  
+- Form I-129, Petition for a Nonimmigrant Worker.  
+- Proof of business need and temporary or seasonal nature of the work.  
+- Job order and recruitment documentation submitted to DOL.  
+- Evidence of compliance with wage and housing standards.  
+- Copy of valid passport and travel documents for each worker.  
+
+7. Common Reasons for Ineligibility  
+- Employer fails to demonstrate that the work is temporary or seasonal.  
+- Inadequate proof that there are not enough U.S. workers available.  
+- Lack of valid Temporary Labor Certification from DOL.  
+- Violation of wage, housing, or transportation obligations in previous seasons.  
+- Worker not from a DHS-designated eligible country.  
+- Submission of false or incomplete information in the petition.  
+
+8. Legal References  
+- Immigration and Nationality Act (INA) §101(a)(15)(H)(ii)(a).  
+- 8 CFR 214.2(h)(5) — H-2A Nonimmigrant Classification.  
+- 20 CFR Part 655 Subpart B — Labor Certification Process for H-2A Workers.  
+- 29 CFR Part 501 — Enforcement of Worker Protections under the H-2A Program.  
+
+9. Notes  
+- H-2A workers can change employers only if the new employer has an approved TLC and I-129 petition.  
+- Dependents (spouse and unmarried children under 21) may apply for H-4 visa status but are not eligible for employment.  
+- Employers must maintain records and provide DOL access for compliance inspections.  
+- Program participation is subject to random audits and enforcement actions for violations.
+
+

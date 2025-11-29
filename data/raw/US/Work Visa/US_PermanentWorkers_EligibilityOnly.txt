@@ -1,0 +1,88 @@
+Source: https://www.uscis.gov/working-in-the-united-states/permanent-workers
+Country: United States
+Visa Type: Employment-Based Immigrant Visa (Permanent Workers)
+
+1. Overview  
+The Employment-Based (EB) Immigrant Visa Program allows qualified foreign nationals to become lawful permanent residents (green card holders) of the United States based on their professional skills, academic achievements, or investment in the U.S. economy. These visas are divided into five preference categories (EB-1 through EB-5), each with distinct eligibility criteria and application processes.  
+
+The EB visa categories are subject to annual numerical limits and per-country caps. Applicants are prioritized based on visa preference category and priority date.  
+
+2. Basic Eligibility Requirements  
+- Applicants must possess the necessary combination of skills, education, and work experience to qualify under one of the employment-based categories (EB-1, EB-2, EB-3, EB-4, or EB-5).  
+- In most categories, a U.S. employer must provide a permanent, full-time job offer and act as the visa sponsor.  
+- The employer must file a petition (Form I-140, Immigrant Petition for Alien Worker) with the U.S. Citizenship and Immigration Services (USCIS).  
+- For most EB-2 and EB-3 cases, the employer must obtain an approved **Labor Certification (PERM)** from the U.S. Department of Labor (DOL).  
+- For certain occupations listed under **Schedule A** (e.g., nurses, physical therapists), a labor certification is **not required**, as DOL has pre-certified shortages in those fields.  
+- EB-5 applicants must make a qualifying investment in a U.S. commercial enterprise and create or preserve at least 10 full-time jobs for U.S. workers.
+
+3. Visa Preference Categories  
+**EB-1 – Priority Workers:**  
+- Persons of extraordinary ability in sciences, arts, education, business, or athletics (self-petition allowed).  
+- Outstanding professors and researchers with international recognition.  
+- Multinational executives or managers transferring to U.S. operations.  
+
+**EB-2 – Professionals with Advanced Degrees or Exceptional Ability:**  
+- Applicants must hold an advanced degree or demonstrate exceptional ability in arts, sciences, or business.  
+- Requires a permanent job offer and labor certification unless applying under the National Interest Waiver (NIW).  
+
+**EB-3 – Skilled Workers, Professionals, and Other Workers:**  
+- Requires at least two years of experience (skilled workers), a bachelor’s degree (professionals), or the ability to perform unskilled labor (other workers).  
+- Always requires an employer sponsor and a certified PERM labor certification.  
+
+**EB-4 – Special Immigrants:**  
+- Includes religious workers, broadcasters, employees of U.S. foreign service posts, certain physicians, and other designated groups.  
+
+**EB-5 – Immigrant Investors:**  
+- Foreign investors who invest a minimum qualifying amount (typically $800,000–$1,050,000 depending on location) in a U.S. enterprise that creates or preserves at least 10 full-time jobs for qualifying employees.  
+
+4. Labor Certification (PERM) Requirements  
+- The U.S. employer must file a **PERM Labor Certification** with the Department of Labor.  
+- The certification confirms that:  
+  • There are no sufficient U.S. workers who are able, willing, qualified, and available for the offered position.  
+  • Hiring the foreign worker will not adversely affect the wages or working conditions of similarly employed U.S. workers.  
+- The PERM process includes job advertisements, recruitment efforts, and a detailed review of the employer’s hiring documentation.
+
+5. Validity Period and Benefits  
+- Once approved, the applicant receives lawful permanent resident status (Green Card).  
+- Green Cards issued under employment-based categories are typically valid for **10 years** and are renewable indefinitely.  
+- Permanent residents may apply for U.S. citizenship after **5 years** of continuous residence.  
+- EB visa holders can sponsor their spouses and unmarried children under 21 as derivative beneficiaries.  
+
+6. Application Steps  
+1. Employer obtains a **PERM Labor Certification** (if required).  
+2. Employer files **Form I-140** (Immigrant Petition for Alien Worker) with USCIS.  
+3. Once a visa number becomes available (based on priority date), the applicant either:  
+   • Files **Form I-485** (Adjustment of Status) if residing in the U.S., or  
+   • Applies for an **immigrant visa** at a U.S. consulate abroad.  
+4. USCIS or the consular officer reviews the application and supporting documentation.  
+5. Upon approval, the applicant receives lawful permanent residence.  
+
+7. Key Documents Required  
+- Certified PERM Labor Certification (if applicable).  
+- Form I-140, Immigrant Petition for Alien Worker.  
+- Proof of educational degrees, professional credentials, and experience.  
+- Employer support letter confirming the permanent, full-time job offer.  
+- Financial and corporate documents demonstrating the employer’s ability to pay the offered wage.  
+- Evidence of extraordinary or exceptional ability (for EB-1/EB-2 NIW).  
+- For EB-5 investors: proof of lawful source of investment funds and job-creation documentation.  
+
+8. Common Reasons for Ineligibility  
+- Lack of required educational or professional qualifications.  
+- Inadequate or invalid labor certification.  
+- Employer fails to demonstrate ability to pay the offered wage.  
+- Fraudulent or inconsistent documentation.  
+- Applicant’s country of chargeability exceeds annual quota limits (visa backlog).  
+- Failure to maintain lawful status or misrepresentation during prior immigration proceedings.  
+
+9. Legal References  
+- Immigration and Nationality Act (INA) §203(b) — Employment-Based Immigration.  
+- 8 CFR 204.5 — Petitions for Employment-Based Immigrants.  
+- 20 CFR 656 — Labor Certification Process (PERM).  
+- USCIS Policy Manual, Volume 6, Part F — Employment-Based Classifications.  
+
+10. Notes  
+- The EB visa system allocates roughly **140,000 visas annually** across all categories and countries.  
+- Priority dates determine visa availability; backlogs may occur for high-demand countries.  
+- Applicants with pending I-485 may apply for Employment Authorization (EAD) and Advance Parole.  
+- Once a Green Card is issued, the holder enjoys nearly all rights of a U.S. citizen except voting.
+

@@ -1,0 +1,62 @@
+Source: https://www.uscis.gov/humanitarian/humanitarian_parole
+Country: United States
+Entry Category: Humanitarian Parole (Temporary Entry)
+
+1. Overview  
+Humanitarian Parole allows individuals outside the United States to request temporary entry for urgent humanitarian reasons or significant public benefit. It is not a visa or an admission status but rather a discretionary permission granted by the U.S. Department of Homeland Security (DHS).  
+
+This process is typically used in emergency situations where there are compelling humanitarian circumstances, such as medical emergencies, family reunification needs, or protection from unsafe conditions. Parole is granted only on a **case-by-case basis** and for a limited period, usually aligned with the duration of the humanitarian need.
+
+2. Basic Eligibility Requirements  
+- The applicant must be **outside the United States** at the time of filing the request.  
+- The applicant must demonstrate **urgent humanitarian reasons** (e.g., critical medical treatment unavailable in their home country, urgent family reunification, or immediate protection needs).  
+- Alternatively, the applicant must show that their entry would provide a **significant public benefit** (such as participating in legal proceedings or contributing to national interests).  
+- The applicant must **not have an available visa or other lawful means of entry** to the United States.  
+- The applicant must be **admissible** under U.S. immigration law or eligible to receive a **waiver of inadmissibility**.  
+- The **U.S. sponsor or petitioner** must file the parole request on the applicant’s behalf, demonstrating ability to support them during their temporary stay.  
+- The final decision rests entirely at the **discretion of DHS**, and approval is not guaranteed even when eligibility is met.
+
+3. Validity and Conditions  
+- Humanitarian parole is **temporary** and is granted only for the period necessary to resolve the specific humanitarian situation, generally up to **one year**.  
+- Extensions may be requested if the humanitarian situation persists.  
+- Parole does **not constitute lawful immigration status** or a path to permanent residence.  
+- Once the humanitarian purpose is fulfilled or the authorized period expires, the individual must **depart the United States** or seek another lawful status if eligible.  
+- Parolees may be eligible to apply for employment authorization (Form I-765) during their stay.  
+
+4. Application Process  
+1. The U.S. sponsor or petitioner submits **Form I-131 (Application for Travel Document)** along with **Form I-134 (Declaration of Financial Support)** to USCIS.  
+2. Supporting evidence must include documentation of the humanitarian situation (e.g., medical records, letters, or government correspondence).  
+3. USCIS reviews the request and may request additional information or evidence.  
+4. DHS makes a discretionary decision based on the urgency and public benefit factors.  
+5. If approved, the applicant receives authorization to travel to the United States for parole processing by Customs and Border Protection (CBP).  
+
+5. Key Documents Required  
+- Form I-131, Application for Travel Document.  
+- Form I-134, Declaration of Financial Support (by U.S. sponsor).  
+- Evidence of urgent humanitarian reasons or significant public benefit (medical, legal, or humanitarian documentation).  
+- Copy of applicant’s passport or travel document.  
+- Proof that no alternative lawful visa or entry option is available.  
+- Proof of sponsor’s financial capability (tax returns, pay stubs, or employment letter).  
+
+6. Common Reasons for Ineligibility or Denial  
+- Failure to establish an urgent humanitarian reason or significant public benefit.  
+- Existence of an available visa or other legal pathway for entry.  
+- Applicant deemed inadmissible and ineligible for a waiver.  
+- Insufficient documentation or lack of credible supporting evidence.  
+- Prior immigration violations or security concerns.  
+- Discretionary denial by DHS despite meeting technical eligibility.  
+
+7. Legal References  
+- Immigration and Nationality Act (INA) §212(d)(5)(A) — Authority to Grant Parole.  
+- 8 CFR §212.5 — Parole of Aliens into the United States.  
+- USCIS Policy Manual, Volume 7, Part A, Chapter 8 — Humanitarian Parole Guidance.  
+- DHS Memoranda and Case-by-Case Determination Policies.  
+
+8. Notes  
+- Humanitarian parole does not grant lawful permanent resident status and is **not a substitute for a visa**.  
+- Applicants already in the U.S. are **not eligible** to apply for parole.  
+- DHS may revoke parole at any time if conditions are violated or the need ceases.  
+- Individuals who remain beyond the authorized period may accrue **unlawful presence** and become subject to removal.  
+- Parole may serve as a temporary bridge while waiting for another immigration benefit, but it does **not guarantee future immigration approval**.
+
+
